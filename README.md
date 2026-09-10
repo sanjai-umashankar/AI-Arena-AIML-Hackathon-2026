@@ -213,9 +213,9 @@ Generate Final Predictions
 Build Working Prototype
         ↓
 Submit
+```
 
-
-### 💡 Tip
+## 💡 Tip
 
 Don't immediately build the most complicated model.
 
@@ -223,7 +223,7 @@ A well-understood, properly validated model with good error analysis can outperf
 
 
 
-# 🏁 The Goal
+## The Goal
 
 AI ARENA is about more than getting a high score.
 
