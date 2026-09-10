@@ -7,19 +7,20 @@ Welcome to **AI ARENA 2026** — an 8-hour AIML competition designed to test you
 > 🤖 **AI tools are allowed.**
 > The challenge is designed so that AI assistants can help you develop your solution, but cannot simply solve the competition without your own experimentation and problem-solving.
 
----
+
 
 ## 📅 Event Information
 
-| ------------- | ------------------------------------------ |
-| **Event**     | AI ARENA 2026                              |
-| **Duration**  | 8 Hours                                    |
-| **Time**      | 8:00 AM – 3:00 PM                          |
-| **Team Size** | 2–4 Members                                |
-| **Domain**    | Artificial Intelligence & Machine Learning |
-| **AI Tools**  | ✅ Allowed                                  |
+| **Event Detail** | **Information** |
+|:---|:---|
+| 🏆 **Event** | AI ARENA 2026 |
+| ⏱️ **Duration** | 8 Hours |
+| 🕐 **Time** | 8:00 AM – 3:00 PM |
+| 👥 **Team Size** | 2–4 Members |
+| 🤖 **Domain** | Artificial Intelligence & Machine Learning |
+| 🧠 **AI Tools** | ✅ Allowed |
 
----
+
 
 # 🎯 Choose Your Challenge
 
@@ -43,7 +44,7 @@ Develop a computer-vision solution capable of identifying defective and non-defe
 
 Build an ML system capable of classifying network/cybersecurity traffic from structured data.
 
----
+
 
 # 📦 Download the Challenge Package
 
@@ -63,7 +64,7 @@ AI_ARENA_HARD_PARTICIPANT/
 └── SUBMISSION_GUIDE.md
 ```
 
----
+
 
 # 🧠 What Makes AI ARENA Different?
 
@@ -83,7 +84,7 @@ The challenge includes:
 
 Your model needs to **generalize**, not just memorize the training data.
 
----
+
 
 # 🤖 AI Usage Policy
 
@@ -111,7 +112,7 @@ During final judging, teams may be asked to:
 
 **AI assistance is allowed. Blind dependence on AI is not a substitute for technical understanding.**
 
----
+
 
 # 📊 Evaluation
 
@@ -134,7 +135,7 @@ The final evaluation includes **private test data and labels** that will not be 
 
 Your submitted predictions will be evaluated against the private labels.
 
----
+
 
 # 📤 Submission Requirements
 
@@ -176,7 +177,7 @@ Your report should include:
 
 Your team must demonstrate a working version of your solution during final judging.
 
----
+
 
 # ⚠️ Important Rules
 
@@ -188,7 +189,7 @@ Your team must demonstrate a working version of your solution during final judgi
 * Organizers may inspect submitted source code.
 * Violation of competition rules may result in disqualification.
 
----
+
 
 # 🚀 Recommended Workflow
 
@@ -212,7 +213,7 @@ Generate Final Predictions
 Build Working Prototype
         ↓
 Submit
-```
+
 
 ### 💡 Tip
 
@@ -220,7 +221,7 @@ Don't immediately build the most complicated model.
 
 A well-understood, properly validated model with good error analysis can outperform a complex model that has not been tested properly.
 
----
+
 
 # 🏁 The Goal
 
